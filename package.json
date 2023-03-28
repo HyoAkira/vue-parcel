@@ -1,0 +1,19 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@parcel/babel-preset-env": "^2.8.3",
+    "@parcel/transformer-pug": "^2.8.3",
+    "@parcel/transformer-vue": "2.8.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel": "^2.8.3",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "name": "vue3",
+  "version": "1.0.0",
+  "license": "MIT"
+}
