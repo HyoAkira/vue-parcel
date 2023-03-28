@@ -1,0 +1,1 @@
+vue-pug-buefy test
